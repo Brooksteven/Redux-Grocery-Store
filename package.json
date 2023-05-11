@@ -27,10 +27,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/jojoford/redux-store.git"
+      "url": "git+https://github.com/brooksteven/redux-grocery-store.git"
     },
     "bugs": {
-      "url": "https://github.com/jojoford/redux-store/issues"
+      "url": "https://github.com/brooksteven/redux-grocery-store/issues"
     },
-    "homepage": "https://github.com/jojoford/redux-store#readme"
+    "homepage": "https://github.com/brooksteven/redux-grocery-store#readme"
   }
